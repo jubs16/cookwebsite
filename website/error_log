@@ -1,0 +1,4 @@
+[01-Apr-2018 10:24:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/deysoftw/public_html/final/chezami/admin/conn.php on line 7
+[01-Apr-2018 10:58:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'deysoftw_minaj'@'localhost' (using password: YES) in /home/deysoftw/public_html/final/chezami/admin/conn.php on line 7
+[01-Apr-2018 11:55:10 UTC] PHP Fatal error:  Call to a member function query() on null in /home/deysoftw/public_html/final/chezami/header.php on line 67
+[01-Apr-2018 12:04:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/deysoftw/public_html/final/chezami/header.php on line 67
